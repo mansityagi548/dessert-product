@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product-Item Cart</title>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Desserts</h1>
+    </header>
+
+    <main class="bento-grid">
+        <section class="items"></section> <!--This is the one where those dessert product shown -->
+
+        <section class="cart">
+            <h2 class="cart-title">Your Cart
+                <span class="cartQuantity">()</span>
+            </h2>
+            <div class="cart-items-container"></div> <!--This is the one where those cart shown -->
+            <div class="cart-bottom">
+            <div class="order-total-container">
+                <p>Order Total</p>
+                <span class="order-total-price">$46.50</span>
+            </div>
+            <div class="carbon-neutral-msg">
+                <img src="assests/icon-carbon-neutral.svg" alt="">
+                <p>This is a <strong>carbon-neutral</strong> delivery</p>
+            </div>
+            <button class="confirm-order-btn">Confirm Order</button>
+            </div>
+        </section>
+
+    </main>
+    <script type="module" src="scripts/script.js"></script>
+</body>
+
+</html>
