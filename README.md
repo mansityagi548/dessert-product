@@ -6,9 +6,8 @@ A dessert ordering app where users can add items to cart, adjust quantities, and
 [View Live]()
 
 ## 📸 Preview
-![Empty Cart](./preview/preview%20empty.png)
 ![Cart With Items](./preview/preview%20.png)
-![Order Confirmed](./preview/preview%20confirm%20.png)
+
 
 ## ✨ Features
 - Add/remove desserts to cart
