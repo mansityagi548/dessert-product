@@ -25,6 +25,9 @@ A dessert ordering app where users can add items to cart, adjust quantities, and
 ## 📁 Project Structure
 scripts/
   ├── script.js      - event listeners & main logic
+  
   ├── renderHtml.js  - rendering functions
+  
   ├── cart.js        - cart state & localStorage
+  
   └── product.js     - dessert data
