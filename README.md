@@ -3,7 +3,7 @@
 A dessert ordering app where users can add items to cart, adjust quantities, and confirm orders.
 
 ## 🔗 Live Demo
-[View Live]()
+[View Live](# https://mansityagi548.github.io/dessert-product/)
 
 ## 📸 Preview
 ![Cart With Items](./preview/preview%20.png)
